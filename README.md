@@ -29,19 +29,15 @@ That's it. Done. You're welcome.
 
 Want your own version you can customize? Follow these steps:
 
-#### 1. Fork the Repo
-- Go to [github.com/SahilGogna/v-day](https://github.com/SahilGogna/v-day)
-- Click the **Fork** button in the top-right corner
-- This creates a copy of the repo under your GitHub account
 
-#### 2. Enable GitHub Pages
+#### 1. Enable GitHub Pages
 - In your forked repo, go to **Settings** (the gear icon tab)
 - In the left sidebar, click **Pages**
 - Under **Source**, select **"Deploy from a branch"**
 - Under **Branch**, select **`main`** and **`/ (root)`**
 - Click **Save**
 
-#### 3. Wait ~2 Minutes
+#### 2. Wait ~2 Minutes
 - GitHub will build and deploy your site
 - Your site will be live at:
   ```
@@ -49,7 +45,7 @@ Want your own version you can customize? Follow these steps:
   ```
   (Replace `yourusername` with your actual GitHub username)
 
-#### 4. Personalize It
+#### 3. Personalize It
 - Edit `index.html` to change the question, title, or GIF
 - Edit `yes.html` to change the celebration page
 - Edit `script.js` to tweak the toast messages, button behavior, or GIF changes
